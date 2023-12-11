@@ -1,0 +1,15 @@
+C:\Users\yuri\Desktop\C#\consoleProject\bin\Debug\net8.0\consoleProject.exe
+C:\Users\yuri\Desktop\C#\consoleProject\bin\Debug\net8.0\consoleProject.deps.json
+C:\Users\yuri\Desktop\C#\consoleProject\bin\Debug\net8.0\consoleProject.runtimeconfig.json
+C:\Users\yuri\Desktop\C#\consoleProject\bin\Debug\net8.0\consoleProject.dll
+C:\Users\yuri\Desktop\C#\consoleProject\bin\Debug\net8.0\consoleProject.pdb
+C:\Users\yuri\Desktop\C#\consoleProject\obj\Debug\net8.0\consoleProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yuri\Desktop\C#\consoleProject\obj\Debug\net8.0\consoleProject.AssemblyInfoInputs.cache
+C:\Users\yuri\Desktop\C#\consoleProject\obj\Debug\net8.0\consoleProject.AssemblyInfo.cs
+C:\Users\yuri\Desktop\C#\consoleProject\obj\Debug\net8.0\consoleProject.csproj.CoreCompileInputs.cache
+C:\Users\yuri\Desktop\C#\consoleProject\obj\Debug\net8.0\consoleProject.sourcelink.json
+C:\Users\yuri\Desktop\C#\consoleProject\obj\Debug\net8.0\consoleProject.dll
+C:\Users\yuri\Desktop\C#\consoleProject\obj\Debug\net8.0\refint\consoleProject.dll
+C:\Users\yuri\Desktop\C#\consoleProject\obj\Debug\net8.0\consoleProject.pdb
+C:\Users\yuri\Desktop\C#\consoleProject\obj\Debug\net8.0\consoleProject.genruntimeconfig.cache
+C:\Users\yuri\Desktop\C#\consoleProject\obj\Debug\net8.0\ref\consoleProject.dll
