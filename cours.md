@@ -81,3 +81,8 @@ Schéma api react :
 |                     |   HTTP  |                  |   CRUD  |                  |
 +---------------------+  Reqs/  +------------------+   Ops   +------------------+
                          Resps
+
+
+                         
+Pour créer une application API créer un classe c# 
+Une propertie mets a disposition des accesseurs (getters et setters)
