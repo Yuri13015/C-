@@ -44,3 +44,40 @@ dotnet build compile le projet
 dotnet run execute le projet
 
 installer les paquets de 2 manières 
+
+
+On peut utiliser un "?" pour dire que la valeur peut etre NUL.
+
+API : Une API (Application Programming Interface) est un ensemble de règles, de protocoles et de définitions qui permettent à différents logiciels de communiquer et d'interagir entre eux. Elle définit les méthodes, les structures de données et les formats d'échange de données utilisés par les applications pour interagir de manière programmée.
+
+Une API peut être considérée comme un contrat entre différentes parties. Elle spécifie comment les différentes composantes d'un logiciel doivent interagir les unes avec les autres, les opérations qu'elles peuvent effectuer et les données qu'elles peuvent échanger. Elle fournit une interface claire et normalisée qui permet aux développeurs d'utiliser les fonctionnalités d'un logiciel ou d'un service sans avoir à connaître les détails internes de son implémentation.
+
+Les API peuvent être utilisées de différentes manières. Par exemple, une API peut être utilisée pour accéder à des fonctionnalités d'un système d'exploitation, d'une bibliothèque de code, d'un service en ligne ou d'une plateforme de développement. Les développeurs peuvent intégrer des API dans leurs propres applications pour tirer parti des fonctionnalités fournies par d'autres systèmes et services, ce qui facilite la création d'applications interconnectées et modulaires.
+
+Les API sont souvent fournies sous forme de bibliothèques de code, de kits de développement logiciel (SDK) ou d'interfaces web. Elles peuvent utiliser différents protocoles de communication, tels que HTTP, REST, SOAP, GraphQL, etc., et peuvent prendre en charge différents formats de données, tels que JSON, XML, CSV, etc.
+
+Schéma API :
++------------------------+                      +----------------------+
+|                        |                      |                      |
+|   Application Client   |                      |    Application API    |
+|                        |                      |                      |
++------------------------+                      +----------------------+
+            |                                               |
+            |               Requêtes HTTP                    |
+            +----------------------------------------------->
+            |                                               |
+            |               Réponses HTTP                    |
+            <-----------------------------------------------+
+            |                                               |
+
+
+
+Schéma api react : 
+
++---------------------+         +------------------+         +------------------+
+|                     |         |                  |         |                  |
+|    Application      |         |      API         |         |    Database      |
+|    Client (React)   | <-----> |    .NET Server   | <-----> |                  |
+|                     |   HTTP  |                  |   CRUD  |                  |
++---------------------+  Reqs/  +------------------+   Ops   +------------------+
+                         Resps
