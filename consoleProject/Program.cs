@@ -4,6 +4,11 @@
     {
         static void Main(string[] args)
         {
+            var values = new List<object> { 1, 2, 3, new List<object> { 4, 5, 6 } };
+            
+            int sum = Sum(values);
+            
+            Console.WriteLine("Sum: " + sum);
             
             
         }
