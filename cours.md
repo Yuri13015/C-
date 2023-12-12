@@ -86,3 +86,8 @@ Schéma api react :
                          
 Pour créer une application API créer un classe c# 
 Une propertie mets a disposition des accesseurs (getters et setters)
+
+IActionresult permet de retourner une requette http conforme au standard REST
+
+SQLITE : n'a pas besoin de serveur pour fonctionner. SGBDR Serveur less.
+ne navigue pas avec internet.
