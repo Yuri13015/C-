@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\yuri\\Desktop\\C#\\BookStoreAPI\\BookStoreAPI.csproj": {}
+    "c:\\Users\\yuri\\Desktop\\C#\\BookStoreAPI\\BookStoreAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\yuri\\Desktop\\C#\\BookStoreAPI\\BookStoreAPI.csproj": {
+    "c:\\Users\\yuri\\Desktop\\C#\\BookStoreAPI\\BookStoreAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yuri\\Desktop\\C#\\BookStoreAPI\\BookStoreAPI.csproj",
+        "projectUniqueName": "c:\\Users\\yuri\\Desktop\\C#\\BookStoreAPI\\BookStoreAPI.csproj",
         "projectName": "BookStoreAPI",
-        "projectPath": "C:\\Users\\yuri\\Desktop\\C#\\BookStoreAPI\\BookStoreAPI.csproj",
+        "projectPath": "c:\\Users\\yuri\\Desktop\\C#\\BookStoreAPI\\BookStoreAPI.csproj",
         "packagesPath": "C:\\Users\\yuri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yuri\\Desktop\\C#\\BookStoreAPI\\obj\\",
+        "outputPath": "c:\\Users\\yuri\\Desktop\\C#\\BookStoreAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\yuri\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -38,6 +38,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.0, )"
