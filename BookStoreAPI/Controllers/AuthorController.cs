@@ -4,6 +4,7 @@ using BookStoreAPI.Entities;
 using Microsoft.EntityFrameworkCore;
 using System.Collections.Generic;
 using System.Threading.Tasks;
+using System.Linq;
 
 namespace BookStoreAPI.Controllers
 {

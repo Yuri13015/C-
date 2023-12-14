@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\yuri\\Desktop\\C#\\BookStoreAPI\\BookStoreAPI.csproj": {}
+    "C:\\Users\\yuri\\Desktop\\C#\\BookStoreAPI\\BookStoreAPI.csproj": {}
   },
   "projects": {
-    "c:\\Users\\yuri\\Desktop\\C#\\BookStoreAPI\\BookStoreAPI.csproj": {
+    "C:\\Users\\yuri\\Desktop\\C#\\BookStoreAPI\\BookStoreAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\yuri\\Desktop\\C#\\BookStoreAPI\\BookStoreAPI.csproj",
+        "projectUniqueName": "C:\\Users\\yuri\\Desktop\\C#\\BookStoreAPI\\BookStoreAPI.csproj",
         "projectName": "BookStoreAPI",
-        "projectPath": "c:\\Users\\yuri\\Desktop\\C#\\BookStoreAPI\\BookStoreAPI.csproj",
+        "projectPath": "C:\\Users\\yuri\\Desktop\\C#\\BookStoreAPI\\BookStoreAPI.csproj",
         "packagesPath": "C:\\Users\\yuri\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\yuri\\Desktop\\C#\\BookStoreAPI\\obj\\",
+        "outputPath": "C:\\Users\\yuri\\Desktop\\C#\\BookStoreAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\yuri\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -46,6 +46,10 @@
               "target": "Package",
               "version": "[12.0.1, )"
             },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.0, )"
@@ -63,6 +67,10 @@
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.4.0, )"
+            },
+            "Swashbuckle.AspNetCore.Filters": {
+              "target": "Package",
+              "version": "[7.0.12, )"
             }
           },
           "imports": [
